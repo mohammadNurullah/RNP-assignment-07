@@ -1,17 +1,4 @@
-// import ExternalUser from "./component/externalUser/ExternalUser";
 import "bootstrap/dist/css/bootstrap.css";
-
-// const App = () => {
-//   return (
-//     <div>
-//       <ExternalUser />
-//     </div>
-//   );
-// };
-
-// export default App;
-//////////////////////////////////
-///////////////
 import { useState } from "react";
 
 function App() {
